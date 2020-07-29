@@ -1,7 +1,7 @@
 // DLL-03.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
 /*
 **************************************************************************************
-Pour Créer une soluion avec une applicaion qui appelle une DLL écite en assembleur   *
+Pour Créer une solution avec une applicaion qui appelle une DLL écite en assembleur   *
 **************************************************************************************
 Il faut :
 - Créer l'application appelante (par exemple : DLL-03)  en C++
