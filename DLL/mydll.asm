@@ -12,7 +12,7 @@ _DllMainCRTStartup endp
 mafonction proc 
 	;mov rax,rcx
 	mov rax,mydata			; renvoie la variable locale
-	ret
+	ret  
 mafonction endp
 
 
